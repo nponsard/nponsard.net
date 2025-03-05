@@ -1,5 +1,5 @@
 ---
-title: 'Container'
+title: 'Advanced devcontainer configuration'
 date: 2024-05-26T15:01:47Z
 draft: false
 tags: ["fedora","silverblue","VSCode","container"]
